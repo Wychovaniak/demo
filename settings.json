@@ -1,0 +1,7 @@
+{
+	"galaxy.meteor.com": {
+		"env": {
+			"MONGO_URL": "mongodb://flog:flog@ds015750.mlab.com:15750/flog"
+		}
+	}
+}
